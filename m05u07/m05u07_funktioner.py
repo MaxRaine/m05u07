@@ -7,4 +7,5 @@ def julgran(x):
 
 
 def tomten():
-    
+    print("\nHo, Ho, Ho!\nJullovet är nära")
+
